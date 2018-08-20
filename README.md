@@ -66,7 +66,7 @@ That should be fairly obvious. You passed 0 tests and failed 3 tests. Not a grea
   Error: Expected 'Joe' to equal 'Susan'
   + expected - actual
 
-  -Susan
+  -Joe
   +Susan
 
   at assert (node_modules/expect/lib/assert.js:29:9)
